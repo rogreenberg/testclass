@@ -1,0 +1,2 @@
+# testclass
+class 1
