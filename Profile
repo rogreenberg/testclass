@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>test</title>
+        </head>
+        <body>
+            <h1>Bio</h1>
+            <h2>Rochelle Greenberg</h2>
+            <!-- Image -->
+            <img src="https://lh6.googleusercontent.com/-nVl76vNjQKU/AAAAAAAAAAI/AAAAAAAAAFw/V8U9dGdi9hQ/photo.jpg">
+            <br>
+        </body>
+</html>
